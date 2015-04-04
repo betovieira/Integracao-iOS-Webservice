@@ -14,6 +14,7 @@
 		DBE3DE891ACFC4C8000A12D3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DBE3DE881ACFC4C8000A12D3 /* Images.xcassets */; };
 		DBE3DE8C1ACFC4C8000A12D3 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = DBE3DE8A1ACFC4C8000A12D3 /* LaunchScreen.xib */; };
 		DBE3DE981ACFC4C8000A12D3 /* integracao_ios_objective_cTests.m in Sources */ = {isa = PBXBuildFile; fileRef = DBE3DE971ACFC4C8000A12D3 /* integracao_ios_objective_cTests.m */; };
+		DBE3DEA31AD01AC8000A12D3 /* Usuario.m in Sources */ = {isa = PBXBuildFile; fileRef = DBE3DEA21AD01AC8000A12D3 /* Usuario.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		DBE3DE911ACFC4C8000A12D3 /* integracao-ios-objective-cTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "integracao-ios-objective-cTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBE3DE961ACFC4C8000A12D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DBE3DE971ACFC4C8000A12D3 /* integracao_ios_objective_cTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = integracao_ios_objective_cTests.m; sourceTree = "<group>"; };
+		DBE3DEA11AD01AC8000A12D3 /* Usuario.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Usuario.h; sourceTree = "<group>"; };
+		DBE3DEA21AD01AC8000A12D3 /* Usuario.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Usuario.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +92,8 @@
 				DBE3DE881ACFC4C8000A12D3 /* Images.xcassets */,
 				DBE3DE8A1ACFC4C8000A12D3 /* LaunchScreen.xib */,
 				DBE3DE7B1ACFC4C8000A12D3 /* Supporting Files */,
+				DBE3DEA11AD01AC8000A12D3 /* Usuario.h */,
+				DBE3DEA21AD01AC8000A12D3 /* Usuario.m */,
 			);
 			path = "integracao-ios-objective-c";
 			sourceTree = "<group>";
@@ -219,6 +224,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DBE3DEA31AD01AC8000A12D3 /* Usuario.m in Sources */,
 				DBE3DE841ACFC4C8000A12D3 /* ViewController.m in Sources */,
 				DBE3DE811ACFC4C8000A12D3 /* AppDelegate.m in Sources */,
 				DBE3DE7E1ACFC4C8000A12D3 /* main.m in Sources */,

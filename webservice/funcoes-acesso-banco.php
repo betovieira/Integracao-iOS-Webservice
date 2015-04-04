@@ -10,7 +10,7 @@
 		$array_json = array();
 		$result_query = mysqli_query($con, $query);
 
-		while($row = mysqli_fetch_array($result_query) ){
+		while($row = mysqli_fetch_array($result_query, MYSQL_ASSOC) ){
 			array_push($array_json, $row);
 		}
 		
@@ -26,7 +26,7 @@
 	function insertMySQL($command){
 		include 'conecta.php';
 
-		$result_query = mysqli_query($con, $command) or die (mysql_error());
+		$result_query = mysqli_query($con, $command) or die (mysqli_error());
 
 		mysql_close($con);
 		
