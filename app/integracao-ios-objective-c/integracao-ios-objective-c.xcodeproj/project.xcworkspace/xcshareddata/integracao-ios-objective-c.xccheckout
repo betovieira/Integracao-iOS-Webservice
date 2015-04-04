@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1C5CA9C7-1835-4457-BB45-C326F128EAED</string>
+	<key>IDESourceControlProjectName</key>
+	<string>integracao-ios-objective-c</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BBF15F6567DA8D65CF7F08A8B8139608F4783709</key>
+		<string>https://github.com/betovieira/Integracao-iOS-Webservice.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>app/integracao-ios-objective-c/integracao-ios-objective-c.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BBF15F6567DA8D65CF7F08A8B8139608F4783709</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/betovieira/Integracao-iOS-Webservice.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BBF15F6567DA8D65CF7F08A8B8139608F4783709</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BBF15F6567DA8D65CF7F08A8B8139608F4783709</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Integracao-iOS-Webservice</string>
+		</dict>
+	</array>
+</dict>
+</plist>
